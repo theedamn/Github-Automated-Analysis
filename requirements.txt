@@ -1,0 +1,9 @@
+streamlit
+gpt4all
+langchain
+huggingface
+huggingface_hub
+radon
+requests
+bs4
+nbconvert
